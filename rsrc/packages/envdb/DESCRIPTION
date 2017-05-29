@@ -1,0 +1,8 @@
+Package: EnvDB
+Version: 0.1
+Title: Environmental Database
+Author: Rob Payn
+Maintainer: Rob Payn <robpayn@gmail.com>
+Depends: RODBC
+License: Unlimited
+Description: Tools for managing environmental data

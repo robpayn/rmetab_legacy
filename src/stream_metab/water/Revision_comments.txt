@@ -1,0 +1,18 @@
+===============
+Initial Checkin
+===============
+
+FILL IN BRIEF SYNOPSIS OF ABOUT 30 CHARACTERS
+
+	Brief summary of changes to flesh out the synopsis.  Note that the synopsis above is kept short because it is used when scanning the checkin logs from the Tortoise browser.
+	
+	FIXED: Any actual bug fixes should be summarixed here in bullet fashion
+
+	ENHANCEMENTS: Changes relating to the usability or feature set are summarized here in bullet fashion
+
+	Change "Initial Checkin" to today's date and copy everything between it and here (not inclusive) and paste it into the Tortoise log window when checking in.
+
+	Use this section to make detailed comments describing changes to all files.  Describe relevant issues, algorithms, etc. in this area so you or someone like you can follow the thinking that went into the changes.  Since this part of this document doesn't get put into the log.  Rather, it remains a detailed commentary that gets revisioned.
+
+	Checked in by: Your Name Here
+
